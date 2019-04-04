@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554393888785.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "106201F9",
+    "lastKnownWriteTime" : 1554393945,
+    "last_content_update" : 1554393945944,
+    "path" : "~/OneDrive - Nightingale Health Ltd/bloodstats/tests/testthat/test-bloodmeans.R",
+    "project_path" : "tests/testthat/test-bloodmeans.R",
+    "properties" : {
+        "cursorPosition" : "8,32",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
